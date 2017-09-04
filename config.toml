@@ -52,13 +52,6 @@ preserveTaxonomyNames = true
 
 [permalinks]
   page = "/:slug/"
-
-[[menu.main]]
-  name = "Repo"
-  weight = -70
-  identifier = "repository"
-  url = "https://github.com/nicolastarzia/blog"
-
 # Language Configuration
 defaultContentLanguage = "en"
 publishDir = "docs"
