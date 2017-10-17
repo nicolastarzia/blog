@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/nicolastarzia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nicolastarzia.com
+  * I am nicolastarzia (https://keybase.io/nicolastarzia) on keybase.
+  * I have a public key ASA4FwS4Ej0DL_AWxHAOcWZCs-XMchuQLKXy3q5roJ8F2Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208eba0509b93d1f5a360d62900a6a6a28153b1f8a86ce5056990be70e076eea6b0a",
+      "host": "keybase.io",
+      "kid": "0120381704b8123d032ff016c4700e716642b3e5cc721b902ca5f2deae6ba09f05d80a",
+      "uid": "d10abc191f0c8e2b3b612e6600731e19",
+      "username": "nicolastarzia"
+    },
+    "merkle_root": {
+      "ctime": 1508235594,
+      "hash": "41de79cf742abad33067616f1eab0ec0c846b7c33ac67c54592c174d70af446a67cc9dc6ed0ab39cb5d0ee7a9e2c113b5130d13840b87736c8bf027fcb056611",
+      "hash_meta": "720cb5dcee99aa0081bd7421b01567c8fe1cec651a76686d3ca2b3b614fd5683",
+      "seqno": 1590013
+    },
+    "service": {
+      "hostname": "nicolastarzia.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1508235627,
+  "expire_in": 504576000,
+  "prev": "60af1cb8a09e37845f91a050e76109e0c7bbd494f9805b33364420c124cfee9f",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOBcEuBI9Ay/wFsRwDnFmQrPlzHIbkCyl8t6ua6CfBdgKp3BheWxvYWTFA097ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOGViYTA1MDliOTNkMWY1YTM2MGQ2MjkwMGE2YTZhMjgxNTNiMWY4YTg2Y2U1MDU2OTkwYmU3MGUwNzZlZWE2YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzgxNzA0YjgxMjNkMDMyZmYwMTZjNDcwMGU3MTY2NDJiM2U1Y2M3MjFiOTAyY2E1ZjJkZWFlNmJhMDlmMDVkODBhIiwidWlkIjoiZDEwYWJjMTkxZjBjOGUyYjNiNjEyZTY2MDA3MzFlMTkiLCJ1c2VybmFtZSI6Im5pY29sYXN0YXJ6aWEifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDgyMzU1OTQsImhhc2giOiI0MWRlNzljZjc0MmFiYWQzMzA2NzYxNmYxZWFiMGVjMGM4NDZiN2MzM2FjNjdjNTQ1OTJjMTc0ZDcwYWY0NDZhNjdjYzlkYzZlZDBhYjM5Y2I1ZDBlZTdhOWUyYzExM2I1MTMwZDEzODQwYjg3NzM2YzhiZjAyN2ZjYjA1NjYxMSIsImhhc2hfbWV0YSI6IjcyMGNiNWRjZWU5OWFhMDA4MWJkNzQyMWIwMTU2N2M4ZmUxY2VjNjUxYTc2Njg2ZDNjYTJiM2I2MTRmZDU2ODMiLCJzZXFubyI6MTU5MDAxM30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJuaWNvbGFzdGFyemlhLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMzIn0sImN0aW1lIjoxNTA4MjM1NjI3LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjYwYWYxY2I4YTA5ZTM3ODQ1ZjkxYTA1MGU3NjEwOWUwYzdiYmQ0OTRmOTgwNWIzMzM2NDQyMGMxMjRjZmVlOWYiLCJzZXFubyI6MTUsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RADKcE5yb+hSTRQBn8iKEyuc6/gdfuLKyg22uwEsqY83UFNHtFD6D6Ay4EGcUKpW8XjKIq5zBcpR/+pqnLJmoRBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIK+VrWsgnfoEcMWuetOtCwtBIw2uVfoqTnCiPpq+yxZKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nicolastarzia
+
+==================================================================
